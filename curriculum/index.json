@@ -1,1 +1,37 @@
-{} 
+{
+  "lastUpdated": "2025-04-04",
+  "subjects": [
+    {
+      "board": "igcse",
+      "code": "0620",
+      "name": "Chemistry",
+      "file": "igcse/0620.json",
+      "expertVerified": true,
+      "chaptersCount": 11
+    },
+    {
+      "board": "igcse",
+      "code": "0625",
+      "name": "Physics",
+      "file": "igcse/0625.json",
+      "expertVerified": false,
+      "chaptersCount": 6
+    },
+    {
+      "board": "igcse",
+      "code": "0580",
+      "name": "Mathematics",
+      "file": "igcse/0580.json",
+      "expertVerified": false,
+      "chaptersCount": 9
+    },
+    {
+      "board": "cbse",
+      "code": "086",
+      "name": "Science",
+      "file": "cbse/086.json",
+      "expertVerified": false,
+      "chaptersCount": 14
+    }
+  ]
+}
